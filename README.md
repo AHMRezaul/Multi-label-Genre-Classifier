@@ -26,4 +26,6 @@ Language : Python 3 <br/>
 IDE : Google Colaboratory <br/>
 Framework : Pytorch <br/>
 Library : Numpy, Pandas, Requests, etc. <br/>
-API : FastAI
+API : FastAI <br/> <br/>
+
+More Details in : https://github.com/msi1427/Multi-label-Genre-Classifier/blob/main/Project%20Report.pdf
