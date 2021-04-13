@@ -3,9 +3,9 @@
 # Contributors : 
 Mohammad Sabik Irbaz (Email : sabikirbaz@iut-dhaka.edu) <br/> 
 Abir Azad (Email : abirazad@iut-dhaka.edu) <br/> 
+A. H. M. Rezaul Karim (Email : rezaulkarim@iut-dhaka.edu) <br/>
 Fardin Ahsan Sakib (Email : fardinahsan@iut-dhaka.edu) <br/> 
 Ahmad Imam (Email : ahmadimam@iut-dhaka.edu) <br/> 
-Rezaul Karim Fahim (Email : rezaulkarim@iut-dhaka.edu) <br/>
 
 # Affiliation :
 Computer Science and Engineering <br/>
